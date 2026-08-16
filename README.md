@@ -1,4 +1,3 @@
-# Estimation-in-Earthquake-Early-Warning
 # 🌍 Estimation in Earthquake Early Warning
 
 A **Django-based web application for Earthquake Early Warning and Prediction** that uses earthquake datasets and machine-learning techniques to estimate earthquake-related warning conditions. The system provides separate interfaces for users and service providers, along with prediction, trained dataset management, results visualization, and feedback features.
